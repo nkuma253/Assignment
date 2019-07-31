@@ -1,0 +1,27 @@
+1>     mkdir project_dir   cd project_dir
+
+2>       git init
+
+3>       git add index.html
+
+4>       git status
+
+5>       git add index.html
+
+6>       git commit -m "changes in index.html file"
+
+7>       git commit -m "changes in index.html file"     git mv [index.html] [info.txt]
+
+8>       git status :-chnages has been modified that git know but not updated\
+
+9>       git ignore "info.txt"
+
+10>      git status
+
+11>      git commit -m "only want index.html"
+
+12>      git log :-will tell u the entire log with the date and time
+
+13>     git commit -m "add some thing new in <head> section"
+
+14 17 19 20 questions
